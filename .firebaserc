@@ -1,6 +1,7 @@
 {
   "projects": {
     "default": "rizqioppalandingpages",
-    "rizqioppa": "rizqioppa"
+    "rizqioppa": "rizqioppa",
+    "mylandingpage": "rizqioppa"
   }
 }
